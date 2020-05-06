@@ -1,0 +1,4 @@
+---
+# tasks file for hello-world
+- name: Hello world
+  debug: msg="{{ message }}"
